@@ -1,0 +1,36 @@
+#{
+#    "AlphaEq": {
+#        "DESCRIPTION": "Modified 2nd adiabatic invariant at LCDS", 
+#        "DIMENSION": [1], 
+#        "MODEL": "T05 (IRBEM implementation)", 
+#        "START_COLUMN": 0, 
+#        "UNITS": "R_E.G^{1/2}"
+#    }, 
+#    "K": {
+#        "DESCRIPTION": "Equatorial pitch angle for LCDS calculation", 
+#        "DIMENSION": [1], 
+#        "UNITS": "degrees", 
+#        "VALUES": [0.1]
+#    }, 
+#    "LCDS": {
+#        "DEPEND_0": "UTC", 
+#        "DEPEND_1": "K", 
+#        "DESCRIPTION": "Last closed drift shell calculated with SpacePy's irbempy module", 
+#        "DIMENSION": [1], 
+#        "MODEL": "T05 (IRBEM implementation)", 
+#        "START_COLUMN": 1, 
+#        "UNITS": "dimensionless"
+#    }, 
+#    "UTC": {
+#        "DIMENSION": [1], 
+#        "START_COLUMN": 2, 
+#        "dtype": "UTC"
+#    }
+#}
+39.375 6.92295588432 2013-09-23T12:00:00
+22.03125 9.03386734719 2013-09-23T18:00:00
+21.5625 9.07607141904 2013-09-24T00:00:00
+22.1484375 9.01836037386 2013-09-24T06:00:00
+39.375 6.90777914781 2013-09-24T12:00:00
+22.1484375 9.04706296767 2013-09-24T18:00:00
+21.6796875 9.05778793483 2013-09-25T00:00:00
